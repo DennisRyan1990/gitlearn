@@ -9,3 +9,6 @@ aaaaaaaaaaa
 
 --modify 03--
 git checkout learn 01 [this begin add new line]
+
+--checkout 02--
+this is checkout learning line 2
