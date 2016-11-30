@@ -2,3 +2,6 @@ this is my second git learn text
 --
 --modify--
 01010101
+
+--github learn 01--
+this is new line 1[learn git distributed first add]
