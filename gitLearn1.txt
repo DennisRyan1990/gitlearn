@@ -7,7 +7,7 @@ this is modify 1
 this is modify 2
 aaaaaaaaaaa
 
---checkout 03--
+--checkout 01--
 git checkout learn 01 [this begin add new line]
 
 --checkout 02--
